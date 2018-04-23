@@ -9,6 +9,7 @@ public class TestClassTest {
   public void f() {
 	  
 	  System.out.println("testing CI....");
+	  System.out.println("finished CI with success");
   }
   @BeforeTest
   public void beforeTest() {
